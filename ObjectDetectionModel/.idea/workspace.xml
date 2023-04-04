@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d13eae9-24ef-45ba-8dae-cb14310fb4a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/labelImg/build-tools/build-for-macos.sh" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/build-tools/build-for-macos.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/build-tools/build-for-pypi.sh" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/build-tools/build-for-pypi.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/build-tools/build-ubuntu-binary.sh" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/build-tools/build-ubuntu-binary.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/build-tools/build-windows-binary.sh" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/build-tools/build-windows-binary.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/build-tools/envsetup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/build-tools/envsetup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/build-tools/run-in-container.sh" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/build-tools/run-in-container.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/data/predefined_classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/data/predefined_classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/labelImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/labelImg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelImg/tools/label_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/labelImg/tools/label_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/download_weights.sh" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/data/scripts/download_weights.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_coco.sh" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/data/scripts/get_coco.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_coco128.sh" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/data/scripts/get_coco128.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_imagenet.sh" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/data/scripts/get_imagenet.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/labelImg" />
+  </component>
+  <component name="ProjectId" id="2KpCs23YXctX3Ow9KA75AYEWTAI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d13eae9-24ef-45ba-8dae-cb14310fb4a6" name="Changes" comment="" />
+      <created>1674662342813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674662342813</updated>
+      <workItem from="1674663200927" duration="3000" />
+      <workItem from="1674664362260" duration="13000" />
+    </task>
+    <servers />
+  </component>
+</project>
